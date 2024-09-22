@@ -1,55 +1,108 @@
-# Data Scientist
+---
+layout: default
+title: Omar ARIF - Data Scientist / ML Engineer
+---
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+# Omar ARIF
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+**Data Scientist / Machine Learning Engineer**
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+[LinkedIn](https://www.linkedin.com/in/omar-arif-profile/) | [GitHub](https://github.com/omar-arif) | [Email](mailto:oarif.pro@gmail.com)
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+---
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+## À propos de moi
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Je suis un ingénieur en informatique spécialisé dans l'**Intelligence Artificielle** et la **Data Science**, avec une forte expertise en **Deep Learning**, **NLP**, et **Computer Vision**. Mon parcours inclut des expériences professionnelles dans des entreprises renommées ainsi que des projets freelance innovants en intelligence artificielle. Je suis passionné par la résolution de problèmes complexes grâce aux algorithmes d'IA et à la science des données.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- **Langues** : Français (courant), Anglais (courant, IELTS 8.0)
+- **Soft skills** : Autonomie, Curiosité, Esprit d’équipe, Esprit analytique, Créativité, Travail sous pression
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+---
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+## Expériences professionnelles
 
-![Bike Study](/assets/img/bike_study.jpeg)
+### **Cdiscount** - Data Scientist (Stage)  
+*Février 2022 - Juillet 2022*
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Conception et déploiement d'un modèle de **Machine Learning** pour identifier si un produit du site Cdiscount est présent sur les sites concurrents (**Product Matching**).
+- Utilisation de **données textuelles** (NLP) et **données visuelles** (Computer Vision) pour l'identification des produits.
+- Stack technique : Python, Pytorch, SQL, Snowflake, Pandas, Transformers, Git, Docker, Kubernetes, Power BI.
+- **Résultats** : Mise en production du modèle avec une précision élevée et réduction du temps d’analyse manuelle.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### **Agence du Développement du Digital** - Développeur Python (Stage)  
+*Août 2022 - Octobre 2022*
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+- Conception d'une API pour le **scraping** de publications scientifiques, transformation et analyse des données collectées.
+- Construction de tableaux de bord pour visualiser les tendances et analyses à partir des données.
+- Stack technique : Python, FastAPI, BeautifulSoup, HTML, Power BI, Docker, Git.
+- **Résultats** : API optimisée et scalable, utilisée pour automatiser la collecte de grandes quantités de données.
 
-- [Data Science Blog](https://medium.com/@shawhin)
+### **Freelance** - Développeur IA  
+*2023 - 2024*
+
+- Développement de plusieurs solutions d'IA, dont :
+  - API de **détection de contenu offensant** et toxique dans les images et les messages.
+  - Application de **super-résolution vidéo** pour améliorer la qualité des vidéos de surveillance.
+  - Systèmes de **recommandation de films** basés sur des préférences de scénarios à l'aide de modèles LLMs et de recherche sémantique.
+  - **Génération d'images** de nuit à partir d'images de jour (Computer Vision).
+- Stack technique : Pytorch, Tensorflow, Scikit-learn, FastAPI, OpenCV, Transformers, Docker, Kubernetes.
+
+---
+
+## Projets GitHub
+
+Voici quelques projets notables disponibles sur mon [GitHub](https://github.com/omar-arif):
+
+- **API de détection de contenu toxique** ([Repo GitHub](https://github.com/omar-arif/toxic-content-api))  
+  Utilise des modèles de **NLP** et de **Deep Learning** pour identifier et signaler automatiquement des messages indésirables ou offensants.
+  
+- **Super-résolution vidéo** ([Repo GitHub](https://github.com/omar-arif/video-super-resolution))  
+  Application de techniques de **Computer Vision** pour améliorer la qualité d’une zone spécifique dans des vidéos de surveillance.
+
+- **Système de recommandation de films** ([Repo GitHub](https://github.com/omar-arif/movie-recommender))  
+  Utilise des **modèles de Langage Naturel** (LLMs) et la recherche sémantique pour recommander des films selon les préférences des utilisateurs.
+
+- **Génération d'images de nuit à partir d'images de jour** ([Repo GitHub](https://github.com/omar-arif/day-to-night-image))  
+  Utilisation de **Computer Vision** pour transformer des images diurnes en images nocturnes.
+
+---
+
+## Compétences techniques
+
+- **Langages** : Python, Java, C, C++, SQL, Bash, HTML/CSS, Assembleur x86
+- **Frameworks et Bibliothèques** : Pytorch, Tensorflow/Keras, Scikit-learn, Pandas, OpenCV, Transformers
+- **Outils** : Docker, Kubernetes, Git, Power BI, Snowflake, FastAPI, BeautifulSoup
+- **Méthodes** : Deep Learning, NLP, Computer Vision, Machine Learning, Scraping de données, Systèmes de recommandation
+
+---
+
+## Formation
+
+### **ENSEIRB-MATMECA (BORDEAUX-INP)** - Ingénieur en Informatique  
+*2019 - 2023*  
+Spécialité : Intelligence Artificielle
+
+### **CPGE Moulay Youssef (Rabat, Maroc)** - Classes préparatoires aux grandes écoles  
+*2016 - 2019*  
+Filière : Mathématiques-Physique (MP)
+
+### **Lycée Assabil (Rabat, Maroc)** - Baccalauréat Sciences Mathématiques  
+*2015 - 2016*
+
+---
+
+## Certificats
+
+- **Introduction to Machine Learning in Production** - Coursera  
+  [Certification](https://coursera.org/verify/PU3MYYU79R98)
+
+---
+
+## Contact
+
+- **Email** : [oarif.pro@gmail.com](mailto:oarif.pro@gmail.com)
+- **LinkedIn** : [omar-arif-profile](https://www.linkedin.com/in/omar-arif-profile/)
+- **GitHub** : [omar-arif](https://github.com/omar-arif)
+
+
