@@ -1,8 +1,3 @@
----
-layout: default
-title: Omar ARIF - Data Scientist / ML Engineer
----
-
 # Omar ARIF
 
 **Data Scientist / Machine Learning Engineer**
