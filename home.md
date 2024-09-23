@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /
+title: Home
 ---
 
 # Welcome to Omar Arif's Portfolio

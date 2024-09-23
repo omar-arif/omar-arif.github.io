@@ -1,3 +1,8 @@
+---
+layout: default
+title: English Portfolio
+---
+
 # Omar ARIF
 
 **Data Scientist / Machine Learning Engineer**
