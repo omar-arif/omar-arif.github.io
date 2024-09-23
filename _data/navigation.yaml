@@ -2,10 +2,10 @@ en:
   - title: "Home"
     url: "/"
   - title: "Portfolio"
-    url: "/en/portfolio"
+    url: "/en/"
 
 fr:
   - title: "Accueil"
     url: "/"
   - title: "Portfolio"
-    url: "/fr/portfolio"
+    url: "/fr/"
