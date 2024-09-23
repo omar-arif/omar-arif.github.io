@@ -1,8 +1,3 @@
----
-layout: default
-title: Omar ARIF - Data Scientist / ML Engineer
----
-
 # Omar ARIF
 
 **Data Scientist / Machine Learning Engineer**
@@ -13,9 +8,10 @@ title: Omar ARIF - Data Scientist / ML Engineer
 
 ## À propos de moi
 
-Je suis ingénieur en informatique, spécialisé en **Intelligence Artificielle** et **Data Science**, avec une expertise particulière en **Deep Learning**, **Natural Language Processing (NLP)** et **Computer Vision**. Fasciné par les nouvelles techniques d'IA et les avancées dans ce domaine, j'explore l'état de l'art tout en développant des applications concrètes.
+Je suis ingénieur en informatique, spécialisé en Intelligence Artificielle et Data Science, avec une expertise particulière en Deep Learning, Natural Language Processing (NLP) et Computer Vision. Mon parcours comprend des expériences dans des entreprises renommées ainsi que des projets freelance innovants.
 
-J'aime approfondir mes connaissances en lisant des **papiers scientifiques** et en mettant en œuvre des solutions réelles. Mon expertise inclut également l'ingénierie des données ainsi que la **production** et le **monitoring** des systèmes de Machine Learning, comme en témoigne mon utilisation de **Snowflake** et mes projets en déploiement de modèles.
+Passionné par les techniques d'IA et les avancées dans le domaine, j'explore l'état de l'art tout en développant des applications concrètes. Je m'engage à approfondir mes connaissances à travers la lecture d'articles scientifiques et la mise en œuvre de solutions réelles. De plus, j'ai acquis une solide expérience en ingénierie des données, ainsi qu'en production et monitoring de systèmes de Machine Learning, ce qui me permet de résoudre des problèmes complexes de manière efficace.
+
 
 - **Langues** : Français (courant), Anglais (courant, IELTS 8.0), Arabe (courant)
 - **Soft skills** : Autonomie, Curiosité, Esprit d’équipe, Esprit analytique, Créativité, Travail sous pression
