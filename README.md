@@ -50,8 +50,8 @@ De plus, j'ai acquis une solide expérience en **ingénierie des données**, ain
 
 ### Exemple de projets:
 
-- **API de détection de contenu toxique** : Utilisation d'**algorithmes NLP** pour identifier automatiquement les messages ou images toxiques à censurer.
-- **Application de super-résolution** : Amélioration de la qualité de vidéos de surveillance en utilisant des techniques de **Computer Vision**.
+- **API de détection de contenu toxique** : Utilisation de modèles de **Machine Learning** pour identifier automatiquement les messages ou images toxiques à censurer.
+- **Application de super-résolution** : Amélioration de la qualité d'une zone floue de vidéos de surveillance en utilisant des techniques de **Computer Vision**.
 - **Système de recommandation de films** : Utilisation des **LLMs** pour recommander des films en fonction des préférences des utilisateurs.
 - **Développement de chatbots commerciaux** : Création de chatbots intelligents capables de gérer des conversations avec des utilisateurs pour des plateformes commerciales. Ces chatbots sont développés à partir d'**LLMs** pour comprendre les requêtes des utilisateurs, fournir des réponses contextuelles et automatiser le support client ou la recommandation de produits.
 - **API de recommandation de films** : Développement d'un système suggérant des films en fonction de la **similarité sémantique (NLP)** (en utilisant des **LLMs**) entre les scénarios des films présents dans une base de données et le prompt de l'utilisateur.
@@ -65,7 +65,7 @@ Voici quelques projets disponibles sur mon [GitHub](https://github.com/omar-arif
 - **[Semantic Movie Recommender](https://github.com/omar-arif/semantic-movie-recommender)** : Système de recommandation de films basé sur la similarité sémantique des scénarios, utilisant **FastAPI** et **Sentence Transformers**. [Tester](https://omar-arif-semantic-movie-recommender-api.hf.space/docs)
 - **[AI Cover Letter Generator](https://github.com/omar-arif/ai-cover-letter-generator)** : Outil générant des lettres de motivation personnalisées à partir de CV et d'offres d'emploi, en prenant en charge les formats DOCX et PDF. [Tester](https://huggingface.co/spaces/omar-arif/cover-letter-generator)
 - **[Day-Night Image Conversion GAN](https://github.com/omar-arif/day-night-image-conversion-GAN)** : Projet de conversion d'images de jour en images de nuit (et inversement) en utilisant des réseaux de neurones conditionnels, avec des données issues du simulateur Carla.
-- **[Genetic AI Snake Player](https://github.com/omar-arif/Genetic-AI-Snake-Player)** : Un joueur de serpent intelligent, entraîné via un algorithme génétique pour optimiser le réseau de neurones.
+- **[Genetic AI Snake Player](https://github.com/omar-arif/Genetic-AI-Snake-Player)** : Un joueur Snake intelligent (**Deep Learning**), entraîné via un algorithme génétique pour optimiser le réseau de neurones.
 - **[RL-DQN Prioritized Experience Replay](https://github.com/omar-arif/RL-DQN-prioritized-experience-replay)** : **Reinforcement Learning** Implémentation d'un **Deep Q-Network** avec le **Prioritized Experience Replay** sur l'environement highway-env d'OpenAI.
 
 ---
