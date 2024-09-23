@@ -1,6 +1,7 @@
 ---
 layout: default
 title: English Portfolio
+permalink: /en/
 ---
 
 # Omar ARIF

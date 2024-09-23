@@ -1,6 +1,7 @@
 ---
 layout: default
 title: French Portfolio
+permalink: /fr/
 ---
 
 # Omar ARIF
