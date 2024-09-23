@@ -8,8 +8,6 @@
 
 ## À propos de moi
 
-## À propos de moi
-
 Je suis ingénieur en informatique, spécialisé en **Intelligence Artificielle** et **Data Science**, avec une expertise particulière en **Deep Learning**, **Natural Language Processing (NLP)** et **Computer Vision**.\
 Mon parcours comprend des expériences dans des entreprises renommées ainsi que des projets freelance innovants.
 
@@ -50,12 +48,26 @@ De plus, j'ai acquis une solide expérience en **ingénierie des données**, ain
 ### **Freelance** - Développeur IA  
 *2023 - 2024*
 
+### Exemple de projets:
+
 - **API de détection de contenu toxique** : Utilisation d'**algorithmes NLP** pour identifier automatiquement les messages ou images toxiques à censurer.
 - **Application de super-résolution** : Amélioration de la qualité de vidéos de surveillance en utilisant des techniques de **Computer Vision**.
 - **Système de recommandation de films** : Utilisation des **LLMs** pour recommander des films en fonction des préférences des utilisateurs.
 - **Deep Q-Network (DQN) avec Prioritized Experience Replay** : Implémentation from scratch d'un **DQN** en utilisant **PyTorch** dans l'environnement **highway-fast-v0** de Gym. Le projet inclut une architecture de réseau neuronal personnalisée et une logique d'entraînement sans utiliser de bibliothèques de renforcement plus élevées.
 - **Génération d'images de nuit à partir d'images de jour** : Application de techniques de **Computer Vision** pour transformer des images diurnes en images nocturnes.
 - **API de recommandation de films** : Développement d'un système suggérant des films en fonction de la **similarité sémantique (NLP)** (en utilisant des **LLMs**) entre les scénarios des films présents dans une base de données et le prompt de l'utilisateur.
+
+---
+
+## Projets GitHub
+
+Voici quelques projets disponibles sur mon [GitHub](https://github.com/omar-arif?tab=repositories) :
+
+- **[Semantic Movie Recommender](https://github.com/omar-arif/semantic-movie-recommender)** : Système de recommandation de films basé sur la similarité sémantique des scénarios, utilisant **FastAPI** et **Sentence Transformers**.
+- **[AI Cover Letter Generator](https://github.com/omar-arif/ai-cover-letter-generator)** : Outil générant des lettres de motivation personnalisées à partir de CV et d'offres d'emploi, en prenant en charge les formats DOCX et PDF.
+- **[Day-Night Image Conversion GAN](https://github.com/omar-arif/day-night-image-conversion-GAN)** : Projet de conversion d'images de jour en images de nuit (et inversement) en utilisant des réseaux de neurones conditionnels, avec des données issues du simulateur Carla.
+- **[Genetic AI Snake Player](https://github.com/omar-arif/Genetic-AI-Snake-Player)** : Un joueur de serpent intelligent, entraîné via un algorithme génétique pour optimiser le réseau de neurones.
+- **[RL-DQN Prioritized Experience Replay](https://github.com/omar-arif/RL-DQN-prioritized-experience-replay)** : **Reinforcement Learning** Implémentation d'un **Deep Q-Network** avec le **Prioritized Experience Replay** sur l'environement highway-env d'OpenAI.
 
 ---
 
