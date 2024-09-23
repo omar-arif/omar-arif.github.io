@@ -4,11 +4,13 @@ title: English Portfolio
 permalink: /en/
 ---
 
+[Back to Home](/)
+
 # Omar ARIF
 
 **Data Scientist / Machine Learning Engineer**
 
-[LinkedIn](https://www.linkedin.com/in/omar-arif-profile/) | [GitHub](https://github.com/omar-arif) | [CV](/assets/pdf/cv_oarif_en.jpg) | [Email](mailto:oarif.pro@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/omar-arif-profile/) | [GitHub](https://github.com/omar-arif) | [CV](/assets/pdf/cv_oarif_en.pdf) | [Email](mailto:oarif.pro@gmail.com)
 
 ---
 
