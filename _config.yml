@@ -3,3 +3,9 @@ logo: /assets/img/portfolio_pic.jpg
 description: Data Scientist / Machine Learning Engineer
 show_downloads: false
 theme: jekyll-theme-minimal
+
+# Localization settings
+languages: 
+  - en
+  - fr
+default_lang: en

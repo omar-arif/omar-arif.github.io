@@ -1,0 +1,11 @@
+en:
+  - title: "Home"
+    url: "/"
+  - title: "Portfolio"
+    url: "/en/portfolio"
+
+fr:
+  - title: "Accueil"
+    url: "/"
+  - title: "Portfolio"
+    url: "/fr/portfolio"

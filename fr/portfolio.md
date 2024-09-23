@@ -2,7 +2,7 @@
 
 **Data Scientist / Machine Learning Engineer**
 
-[LinkedIn](https://www.linkedin.com/in/omar-arif-profile/) | [GitHub](/assets/img/cv_oarif_fr.jpg) | [CV] | [Email](mailto:oarif.pro@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/omar-arif-profile/) | [GitHub](https://github.com/omar-arif) | [CV](/assets/pdf/cv_oarif_fr.jpg) | [Email](mailto:oarif.pro@gmail.com)
 
 ---
 
