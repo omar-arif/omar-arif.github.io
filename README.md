@@ -1,16 +1,23 @@
+---
+layout: default
+title: Omar ARIF - Data Scientist / ML Engineer
+---
+
 # Omar ARIF
 
 **Data Scientist / Machine Learning Engineer**
 
-[LinkedIn](https://www.linkedin.com/in/omar-arif-profile/) | [GitHub](https://github.com/omar-arif) | [Email](mailto:oarif.pro@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/omar-arif-profile/) | [GitHub](https://github.com/omar-arif) | [CV](path/to/your/cv.pdf) | [Email](mailto:oarif.pro@gmail.com)
 
 ---
 
 ## À propos de moi
 
-Je suis un ingénieur en informatique spécialisé dans l'**Intelligence Artificielle** et la **Data Science**, avec une forte expertise en **Deep Learning**, **NLP**, et **Computer Vision**. Mon parcours inclut des expériences professionnelles dans des entreprises renommées ainsi que des projets freelance innovants en intelligence artificielle. Je suis passionné par la résolution de problèmes complexes grâce aux algorithmes d'IA et à la science des données.
+Je suis ingénieur en informatique, spécialisé en **Intelligence Artificielle** et **Data Science**, avec une expertise particulière en **Deep Learning**, **Natural Language Processing (NLP)** et **Computer Vision**. Fasciné par les nouvelles techniques d'IA et les avancées dans ce domaine, j'explore l'état de l'art tout en développant des applications concrètes.
 
-- **Langues** : Français (courant), Anglais (courant, IELTS 8.0)
+J'aime approfondir mes connaissances en lisant des **papiers scientifiques** et en mettant en œuvre des solutions réelles. Mon expertise inclut également l'ingénierie des données ainsi que la **production** et le **monitoring** des systèmes de Machine Learning, comme en témoigne mon utilisation de **Snowflake** et mes projets en déploiement de modèles.
+
+- **Langues** : Français (courant), Anglais (courant, IELTS 8.0), Arabe (courant)
 - **Soft skills** : Autonomie, Curiosité, Esprit d’équipe, Esprit analytique, Créativité, Travail sous pression
 
 ---
@@ -20,28 +27,35 @@ Je suis un ingénieur en informatique spécialisé dans l'**Intelligence Artific
 ### **Cdiscount** - Data Scientist (Stage)  
 *Février 2022 - Juillet 2022*
 
-- Conception et déploiement d'un modèle de **Machine Learning** pour identifier si un produit du site Cdiscount est présent sur les sites concurrents (**Product Matching**).
-- Utilisation de **données textuelles** (NLP) et **données visuelles** (Computer Vision) pour l'identification des produits.
-- Stack technique : Python, Pytorch, SQL, Snowflake, Pandas, Transformers, Git, Docker, Kubernetes, Power BI.
-- **Résultats** : Mise en production du modèle avec une précision élevée et réduction du temps d’analyse manuelle.
+- **Projet** : Automatisation du **matching de produits** entre le catalogue Cdiscount et les sites concurrents, en utilisant des données **textuelles** (NLP) et **visuelles** (Computer Vision).
+- **Étapes clés** :
+  - État de l'art des techniques de matching produits.
+  - **Collecte, analyse et traitement de données** issues de descriptions textuelles et d'images de produits.
+  - Développement et **entraînement de modèles de Deep Learning**.
+  - Optimisation et **mise en production** du modèle final.
+  - Utilisation de **Snowflake** pour le traitement des données volumineuses.
+- **Stack technique** : Python, Pytorch, SQL, Snowflake, Pandas, Transformers, Docker, Kubernetes, Power BI.
+- **Résultats** : Amélioration du taux de matching produits avec une réduction significative des efforts manuels.
 
 ### **Agence du Développement du Digital** - Développeur Python (Stage)  
 *Août 2022 - Octobre 2022*
 
-- Conception d'une API pour le **scraping** de publications scientifiques, transformation et analyse des données collectées.
-- Construction de tableaux de bord pour visualiser les tendances et analyses à partir des données.
-- Stack technique : Python, FastAPI, BeautifulSoup, HTML, Power BI, Docker, Git.
-- **Résultats** : API optimisée et scalable, utilisée pour automatiser la collecte de grandes quantités de données.
+- **Projet** : Création d'une **API de scraping** pour collecter et analyser des publications scientifiques à partir de plusieurs sites.
+- **Responsabilités** :
+  - Conception de l'architecture de l'API en **FastAPI**.
+  - Collecte, **nettoyage des données** et création de **tableaux de bord** pour visualiser les tendances.
+  - **Déploiement** et optimisation des performances de l'API.
+- **Stack technique** : Python, FastAPI, BeautifulSoup, HTML, Power BI, Docker, Git.
+- **Résultats** : API robuste et scalable, capable de traiter de grandes quantités de données avec un monitoring efficace.
 
 ### **Freelance** - Développeur IA  
 *2023 - 2024*
 
-- Développement de plusieurs solutions d'IA, dont :
-  - API de **détection de contenu offensant** et toxique dans les images et les messages.
-  - Application de **super-résolution vidéo** pour améliorer la qualité des vidéos de surveillance.
-  - Systèmes de **recommandation de films** basés sur des préférences de scénarios à l'aide de modèles LLMs et de recherche sémantique.
-  - **Génération d'images** de nuit à partir d'images de jour (Computer Vision).
-- Stack technique : Pytorch, Tensorflow, Scikit-learn, FastAPI, OpenCV, Transformers, Docker, Kubernetes.
+- **API de détection de contenu toxique** : Utilisation d'**algorithmes NLP** pour identifier automatiquement les messages ou images toxiques à censurer.
+- **Application de super-résolution** : Amélioration de la qualité de vidéos de surveillance en utilisant des techniques de **Computer Vision**.
+- **Système de recommandation de films** : Utilisation des **LLMs** pour recommander des films en fonction des préférences des utilisateurs.
+- **Deep Q-Network (DQN) avec Prioritized Experience Replay** : Implémentation from scratch d'un **DQN** en utilisant **PyTorch** dans l'environnement **highway-fast-v0** de Gym. Le projet inclut une architecture de réseau neuronal personnalisée et une logique d'entraînement sans utiliser de bibliothèques de renforcement plus élevées.
+- **Génération d'images de nuit à partir d'images de jour** : Application de techniques de **Computer Vision** pour transformer des images diurnes en images nocturnes.
 
 ---
 
@@ -49,17 +63,20 @@ Je suis un ingénieur en informatique spécialisé dans l'**Intelligence Artific
 
 Voici quelques projets notables disponibles sur mon [GitHub](https://github.com/omar-arif):
 
+- **Deep Q-Network (DQN) avec Prioritized Experience Replay** ([Repo GitHub](https://github.com/omar-arif/dqn-prioritized-experience-replay))  
+  Implémentation complète d'un **DQN** avec **Prioritized Experience Replay** utilisant PyTorch et l'environnement **highway-fast-v0** de Gym.
+
 - **API de détection de contenu toxique** ([Repo GitHub](https://github.com/omar-arif/toxic-content-api))  
-  Utilise des modèles de **NLP** et de **Deep Learning** pour identifier et signaler automatiquement des messages indésirables ou offensants.
-  
+  Détection automatique de contenus toxiques à l'aide de **NLP** et de **Deep Learning**.
+
 - **Super-résolution vidéo** ([Repo GitHub](https://github.com/omar-arif/video-super-resolution))  
-  Application de techniques de **Computer Vision** pour améliorer la qualité d’une zone spécifique dans des vidéos de surveillance.
+  Amélioration de la résolution de vidéos de surveillance via des techniques de **Computer Vision**.
 
 - **Système de recommandation de films** ([Repo GitHub](https://github.com/omar-arif/movie-recommender))  
-  Utilise des **modèles de Langage Naturel** (LLMs) et la recherche sémantique pour recommander des films selon les préférences des utilisateurs.
+  Utilisation de **modèles de Langage Naturel** (LLMs) pour fournir des recommandations personnalisées de films.
 
 - **Génération d'images de nuit à partir d'images de jour** ([Repo GitHub](https://github.com/omar-arif/day-to-night-image))  
-  Utilisation de **Computer Vision** pour transformer des images diurnes en images nocturnes.
+  Transformation d'images diurnes en nocturnes grâce à la **Computer Vision**.
 
 ---
 
@@ -68,7 +85,7 @@ Voici quelques projets notables disponibles sur mon [GitHub](https://github.com/
 - **Langages** : Python, Java, C, C++, SQL, Bash, HTML/CSS, Assembleur x86
 - **Frameworks et Bibliothèques** : Pytorch, Tensorflow/Keras, Scikit-learn, Pandas, OpenCV, Transformers
 - **Outils** : Docker, Kubernetes, Git, Power BI, Snowflake, FastAPI, BeautifulSoup
-- **Méthodes** : Deep Learning, NLP, Computer Vision, Machine Learning, Scraping de données, Systèmes de recommandation
+- **Méthodes** : Deep Learning, NLP, Computer Vision, Machine Learning, Data Engineering, Systèmes de recommandation
 
 ---
 
@@ -99,5 +116,3 @@ Filière : Mathématiques-Physique (MP)
 - **Email** : [oarif.pro@gmail.com](mailto:oarif.pro@gmail.com)
 - **LinkedIn** : [omar-arif-profile](https://www.linkedin.com/in/omar-arif-profile/)
 - **GitHub** : [omar-arif](https://github.com/omar-arif)
-
-
