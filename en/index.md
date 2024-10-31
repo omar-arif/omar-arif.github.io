@@ -58,7 +58,6 @@ Passionate about AI techniques and advancements in the field, I explore state-of
 
 - **Toxic Content Detection API**: Using **Machine Learning** models to automatically identify toxic messages or images for moderation.
 - **Super-Resolution Application**: Enhancing the quality of blurred areas in surveillance videos using **Computer Vision** techniques.
-- **Movie Recommendation System**: Utilizing **LLMs** to recommend films based on user preferences.
 - **Commercial Chatbots Development**: Creating intelligent chatbots that can manage conversations with users for commercial platforms, built from **LLMs** to understand user queries, provide contextual responses, and automate customer support or product recommendations.
 - **Movie Recommendation API**: Developing a system suggesting films based on **semantic similarity (NLP)** (using **LLMs**) between movie plots in a database and the user’s prompt.
 
