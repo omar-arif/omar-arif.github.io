@@ -60,7 +60,6 @@ De plus, j'ai acquis une solide expérience en **ingénierie des données**, ain
 
 - **API de détection de contenu toxique** : Utilisation de modèles de **Machine Learning** pour identifier automatiquement les messages ou images toxiques à censurer.
 - **Application de super-résolution** : Amélioration de la qualité d'une zone floue de vidéos de surveillance en utilisant des techniques de **Computer Vision**.
-- **Système de recommandation de films** : Utilisation des **LLMs** pour recommander des films en fonction des préférences des utilisateurs.
 - **Développement de chatbots commerciaux** : Création de chatbots intelligents capables de gérer des conversations avec des utilisateurs pour des plateformes commerciales. Ces chatbots sont développés à partir d'**LLMs** pour comprendre les requêtes des utilisateurs, fournir des réponses contextuelles et automatiser le support client ou la recommandation de produits.
 - **API de recommandation de films** : Développement d'un système suggérant des films en fonction de la **similarité sémantique (NLP)** (en utilisant des **LLMs**) entre les scénarios des films présents dans une base de données et le prompt de l'utilisateur.
 
