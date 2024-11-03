@@ -52,9 +52,9 @@ Passionate about AI techniques and advancements in the field, I explore state-of
 - **Results**: Robust and scalable API capable of processing large amounts of data with effective monitoring.
 
 ### **Freelance** - AI Developer  
-*2023 - 2024*
+*2023 - Now*
 
-### Example Projects:
+### Examples of Projects:
 
 - **Toxic Content Detection API**: Using **Machine Learning** models to automatically identify toxic messages or images for moderation.
 - **Super-Resolution Application**: Enhancing the quality of blurred areas in surveillance videos using **Computer Vision** techniques.
@@ -62,6 +62,13 @@ Passionate about AI techniques and advancements in the field, I explore state-of
 - **Commercial Chatbots Development**: Creating intelligent chatbots that can manage conversations with users for commercial platforms, built from **LLMs** to understand user queries, provide contextual responses, and automate customer support or product recommendations.
 - **Movie Recommendation API**: Developing a system suggesting films based on **semantic similarity (NLP)** (using **LLMs**) between movie plots in a database and the user’s prompt.
 
+### **Outlier AI** - Coding Expert for AI Training (Freelance)
+*September 2024 - Now*
+- **Responsibilities**:
+  - Optimizing large language models to improve code generation and function-calling capabilities using Reinforcement Learning from Human Feedback (RLHF).
+  - Providing feedback and ranking AI-generated code, primarily in Python and C++, to enhance model accuracy and real-world applicability.
+  - Designing and testing prompts to maximize model effectiveness in generating accurate and functional code outputs.
+  - Supporting the advancement of generative AI performance across diverse, flexible projects within a remote work environment.
 ---
 
 ## GitHub Projects

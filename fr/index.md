@@ -54,7 +54,7 @@ De plus, j'ai acquis une solide expérience en **ingénierie des données**, ain
 - **Résultats** : API robuste et scalable, capable de traiter de grandes quantités de données avec un monitoring efficace.
 
 ### **Freelance** - Développeur IA  
-*2023 - 2024*
+*2023 - présent*
 
 ### Exemple de projets:
 
@@ -63,6 +63,15 @@ De plus, j'ai acquis une solide expérience en **ingénierie des données**, ain
 - **Système de recommandation de films** : Utilisation des **LLMs** pour recommander des films en fonction des préférences des utilisateurs.
 - **Développement de chatbots commerciaux** : Création de chatbots intelligents capables de gérer des conversations avec des utilisateurs pour des plateformes commerciales. Ces chatbots sont développés à partir d'**LLMs** pour comprendre les requêtes des utilisateurs, fournir des réponses contextuelles et automatiser le support client ou la recommandation de produits.
 - **API de recommandation de films** : Développement d'un système suggérant des films en fonction de la **similarité sémantique (NLP)** (en utilisant des **LLMs**) entre les scénarios des films présents dans une base de données et le prompt de l'utilisateur.
+
+### **Outlier AI** - Expert en développement informatique pour l'entraînement de modèles d'IA (Freelance)
+*Septembre 2024 - présent*
+
+- **Responsibilités**:
+  - Optimiser les LLM pour améliorer les capacités de génération de code et d'appel de fonctions en utilisant Reinforcement Learning à travers le feedback humain (RLHF).
+  - Fournir des retours, réécrire et classer le code généré par l'IA, principalement en Python et C++, pour améliorer l'exactitude et l'applicabilité dans le monde réel.
+  - Concevoir et tester des prompts pour maximiser l'efficacité du modèle dans la génération de sorties de code précises et fonctionnelles.
+  - Soutenir l'avancement des performances de l'IA générative à travers des projets divers et flexibles dans un environnement de travail à distance.
 
 ---
 
