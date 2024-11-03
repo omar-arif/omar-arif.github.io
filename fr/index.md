@@ -66,7 +66,7 @@ De plus, j'ai acquis une solide expérience en **ingénierie des données**, ain
 ### **Outlier AI** - Expert en développement informatique pour l'entraînement de modèles d'IA (Freelance)
 *Septembre 2024 - présent*
 
-- **Responsibilités**:
+**Responsibilités**:
   - Optimiser les LLM pour améliorer les capacités de génération de code et d'appel de fonctions en utilisant Reinforcement Learning à travers le feedback humain (RLHF).
   - Fournir des retours, réécrire et classer le code généré par l'IA, principalement en Python et C++, pour améliorer l'exactitude et l'applicabilité dans le monde réel.
   - Concevoir et tester des prompts pour maximiser l'efficacité du modèle dans la génération de sorties de code précises et fonctionnelles.

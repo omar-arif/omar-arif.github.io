@@ -63,11 +63,13 @@ Passionate about AI techniques and advancements in the field, I explore state-of
 
 ### **Outlier AI** - Coding Expert for AI Training (Freelance)
 *September 2024 - Now*
-- **Responsibilities**:
+
+**Responsibilities**:
   - Optimizing large language models to improve code generation and function-calling capabilities using Reinforcement Learning from Human Feedback (RLHF).
   - Providing feedback and ranking AI-generated code, primarily in Python and C++, to enhance model accuracy and real-world applicability.
   - Designing and testing prompts to maximize model effectiveness in generating accurate and functional code outputs.
   - Supporting the advancement of generative AI performance across diverse, flexible projects within a remote work environment.
+  
 ---
 
 ## GitHub Projects
