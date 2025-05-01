@@ -95,6 +95,9 @@ Here are some projects available on my [GitHub](https://github.com/omar-arif?tab
 
 ## Education
 
+### **AIVANCITY (Paris, France)** - MSc in Data Engineering and Cloud Computing (M2)
+*2025–2026*
+
 ### **ENSEIRB-MATMECA (BORDEAUX-INP)** - Computer Engineering  
 *2019 - 2023*  
 Specialty: Artificial Intelligence
