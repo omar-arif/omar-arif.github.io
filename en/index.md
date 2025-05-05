@@ -56,9 +56,11 @@ Passionate about AI techniques and advancements in the field, I explore state-of
 
 ### Examples of Projects:
 
+- **Development of a voice- and text-based AI agent for e-commerce websites** : Built an intelligent agent using Agentic RAG to interact with customers, recommend personalized products, and manage their shopping cart.
 - **Toxic Content Detection API**: Using **Machine Learning** models to automatically identify toxic messages or images for moderation.
 - **Super-Resolution Application**: Enhancing the quality of blurred areas in surveillance videos using **Computer Vision** techniques.
-- **Commercial Chatbots Development**: Creating intelligent chatbots that can manage conversations with users for commercial platforms, built from **LLMs** to understand user queries, provide contextual responses, and automate customer support or product recommendations.
+- **Automated data extraction from scanned invoice images**: Developed a system based on lightweight, fine-tuned neural networks to extract key fields from scanned invoices, generating a structured XML file according to company specifications and eliminating manual data entry.
+- **Real-time dashboard for financial market data**: Built an interactive platform to monitor asset prices in real time, visualize technical indicators (moving averages, Bollinger Bands, RSI, etc.), and perform sentiment analysis based on social media discussions.
 - **Movie Recommendation API**: Developing a system suggesting films based on **semantic similarity (NLP)** (using **LLMs**) between movie plots in a database and the user’s prompt.
 
 ### **Outlier AI** - Coding Expert for AI Training (Freelance)

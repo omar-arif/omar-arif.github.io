@@ -58,9 +58,11 @@ De plus, j'ai acquis une solide expérience en **ingénierie des données**, ain
 
 ### Exemple de projets:
 
+- **Développement d’un agent IA vocal et textuel pour sites d’e-commerce** : Création d’un agent intelligent utilisant l’Agentic RAG pour interagir avec les clients, recommander des produits personnalisés et gérer leur panier d'achat
 - **API de détection de contenu toxique** : Utilisation de modèles de **Machine Learning** pour identifier automatiquement les messages ou images toxiques à censurer.
 - **Application de super-résolution** : Amélioration de la qualité d'une zone floue de vidéos de surveillance en utilisant des techniques de **Computer Vision**.
-- **Développement de chatbots commerciaux** : Création de chatbots intelligents capables de gérer des conversations avec des utilisateurs pour des plateformes commerciales. Ces chatbots sont développés à partir d'**LLMs** pour comprendre les requêtes des utilisateurs, fournir des réponses contextuelles et automatiser le support client ou la recommandation de produits.
+- **Extraction automatisée de données de factures images** : Développement d’un système basé sur des réseaux de neurones légers et fine-tunés pour extraire les champs clés depuis des factures scannées, avec génération d’un fichier XML structuré selon le format requis par l’entreprise, éliminant la saisie manuelle.
+- **Création d’un dashboard en temps réel pour les données de marchés financiers** : Développement d'une plateforme interactive permettant de suivre en temps réel les prix des actifs financiers, les indicateurs techniques (moyennes mobiles, Bollinger Bands, RSI, etc.) et d’effectuer une analyse de sentiment à partir des discussions sur les réseaux sociaux.
 - **API de recommandation de films** : Développement d'un système suggérant des films en fonction de la **similarité sémantique (NLP)** (en utilisant des **LLMs**) entre les scénarios des films présents dans une base de données et le prompt de l'utilisateur.
 
 ### **Outlier AI** - Expert en développement informatique pour l'entraînement de modèles d'IA (Freelance)
